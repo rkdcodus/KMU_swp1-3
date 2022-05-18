@@ -1,2 +1,3 @@
-kang chaeyeon     20192003w
+kang chaeyeon     20192003
 kookmin Univ .sw
+Local commit
