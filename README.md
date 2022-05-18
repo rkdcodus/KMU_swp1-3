@@ -1,2 +1,2 @@
-kang chaeyeon 	20192003 new
+kang chaeyeon     20192003w
 kookmin Univ .sw
